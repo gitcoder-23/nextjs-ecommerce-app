@@ -1,5 +1,6 @@
 {
-  "name": "nextjs-ecommerce",
+  "name": "nextjs-ecommerce-app",
+  "developer": "Prabhat",
   "version": "0.1.0",
   "private": true,
   "scripts": {
